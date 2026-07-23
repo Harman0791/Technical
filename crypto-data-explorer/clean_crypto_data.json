@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Bitcoin",
+        "symbol": "btc",
+        "current_price": 65120,
+        "market_cap": 1306053300427,
+        "price_change_24h": 398.18,
+        "price_change_percentage_24h": 0.61521,
+        "total_volume": 27740654662
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "eth",
+        "current_price": 1920.45,
+        "market_cap": 231773498198,
+        "price_change_24h": 48.45,
+        "price_change_percentage_24h": 2.58841,
+        "total_volume": 11707292969
+    },
+    {
+        "name": "Tether",
+        "symbol": "usdt",
+        "current_price": 0.999152,
+        "market_cap": 184195510796,
+        "price_change_24h": -9.2062015461525e-05,
+        "price_change_percentage_24h": -0.00921,
+        "total_volume": 45594329876
+    },
+    {
+        "name": "BNB",
+        "symbol": "bnb",
+        "current_price": 579.27,
+        "market_cap": 77135241926,
+        "price_change_24h": -3.1538747842740804,
+        "price_change_percentage_24h": -0.54151,
+        "total_volume": 653660574
+    },
+    {
+        "name": "USDC",
+        "symbol": "usdc",
+        "current_price": 0.99988,
+        "market_cap": 73016056162,
+        "price_change_24h": 0.00011327,
+        "price_change_percentage_24h": 0.01133,
+        "total_volume": 12286476077
+    },
+    {
+        "name": "XRP",
+        "symbol": "xrp",
+        "current_price": 1.12,
+        "market_cap": 70044923919,
+        "price_change_24h": 0.01675875,
+        "price_change_percentage_24h": 1.51746,
+        "total_volume": 1240494278
+    },
+    {
+        "name": "Solana",
+        "symbol": "sol",
+        "current_price": 77.71,
+        "market_cap": 45260747563,
+        "price_change_24h": 0.417341,
+        "price_change_percentage_24h": 0.53995,
+        "total_volume": 1949557635
+    },
+    {
+        "name": "TRON",
+        "symbol": "trx",
+        "current_price": 0.327425,
+        "market_cap": 31061875233,
+        "price_change_24h": 0.00227358,
+        "price_change_percentage_24h": 0.69923,
+        "total_volume": 357866700
+    },
+    {
+        "name": "Figure Heloc",
+        "symbol": "figr_heloc",
+        "current_price": 1.036,
+        "market_cap": 20703606645,
+        "price_change_24h": 0.0033789,
+        "price_change_percentage_24h": 0.32719,
+        "total_volume": 36507689
+    },
+    {
+        "name": "Hyperliquid",
+        "symbol": "hype",
+        "current_price": 67.61,
+        "market_cap": 15044551278,
+        "price_change_24h": 2.89,
+        "price_change_percentage_24h": 4.47118,
+        "total_volume": 471678605
+    }
+]
