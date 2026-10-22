@@ -1,0 +1,34 @@
+version: 2
+
+sources:
+  - name: energy_raw
+    description: "RAW ENTSO-E day-ahead electricity price data."
+    schema: public
+    tables:
+      - name: entsoe_dayahead_prices
+        description: "RAW hourly day-ahead electricity prices for multiple europen countries"
+        columns:
+          - name: date
+            tests:
+              - not_null
+          - name: hour
+            tests:
+              - not_null
+          - name: france
+            tests:
+              - not_null
+          - name: italy
+            tests:
+              - not_null
+          - name: belgium
+            tests:
+              - not_null
+          - name: spain
+            tests:
+              - not_null
+          - name: uk
+            tests:
+              - not_null
+          - name: germany
+            tests:
+              - not_null

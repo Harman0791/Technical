@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: anomalies
+    columns:
+     - name: date
+       tests:
+       - not_null
+     - name: hour_of_day
+       tests:
+       - not_null
